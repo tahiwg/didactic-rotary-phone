@@ -1,2 +1,6 @@
-# didactic-rotary-phone
-This is not a didactic rotary phone
+# Lab 2: Version Control
+
+## Team members
+
+- Clarisse
+- Tahi
